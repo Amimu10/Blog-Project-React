@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/0mJJLg4/2.png",
+    "title": "Exploring the Depths of JavaScript: A Dive into Lorem Ipsum",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/Sy4GLbX/profile.jpg",
+    "posted_date": "2023-09-11",
+    "reading_time": 10,
+    "hashtags": ["#Article", "#JavaScript"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/hfxM3tZ/3.png",
+    "title": "Mastering React: Dolor Sit Amet - The Journey of Jane Smith",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/hZZH2d2/profile-1.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": 8,
+    "hashtags": ["#DolorSitAmet", "#React"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/HVYF4BM/4.jpg",
+    "title": "Crafting Beautiful CSS: The Artistry of Mark Johnson",
+    "author": "Mark Johnson",
+    "author_img": "https://i.ibb.co/0QNv2sK/profile-2.jpg",
+    "posted_date": "2023-09-09",
+    "reading_time": 12,
+    "hashtags": ["#ConsecteturAdipiscing", "#Css"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/BCySxbk/1.jpg",
+    "title": "Tailwind CSS Unleashed: Sed Eiusmod Tempor by Emily Brown",
+    "author": "Emily Brown",
+    "author_img": "https://i.ibb.co/zmjbnPP/profile-3.jpg",
+    "posted_date": "2023-09-08",
+    "reading_time": 7,
+    "hashtags": ["#SedEiusmodTempor", "#Taiwind"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/DMDrbCR/1-0-Bu-W7o-Ef-5-JV-ZI4evy7g-A.png",
+    "title": "Bootstrap Beyond Basics: Incididunt Ut Labore with Michael Wilson",
+    "author": "Michael Wilson",
+    "author_img": "https://i.ibb.co/QbDzMrr/profile-4.jpg",
+    "posted_date": "2023-09-07",
+    "reading_time": 15,
+    "hashtags": ["#IncididuntUtLabore", "#Bootstrap"]
+  }
+]
